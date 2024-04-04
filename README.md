@@ -1,4 +1,4 @@
-# Code for our paper "A Single Linear Layer Yields Task-Adapted Low-Rank Matrices"
+# CondLoRA
 
 ## How to use
 
